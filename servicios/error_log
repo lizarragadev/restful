@@ -1,0 +1,17 @@
+[17-Nov-2016 18:31:11 Etc/GMT] PHP Warning:  mysql_connect(): Access denied for user 'androidb_admin'@'localhost' (using password: YES) in /home/dnandroidbolivia/public_html/cognos/connectbd.php on line 10
+[17-Nov-2016 18:52:48 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/dnandroidbolivia/public_html/cognos/funciones_bd.php on line 48
+[17-Nov-2016 18:54:02 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/dnandroidbolivia/public_html/cognos/funciones_bd.php on line 48
+[17-Nov-2016 23:29:05 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/dnandroidbolivia/public_html/cognos/funciones_bd.php on line 30
+[18-Nov-2016 01:20:40 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/dnandroidbolivia/public_html/cognos/funciones_bd.php on line 30
+[18-Nov-2016 01:30:33 Etc/GMT] PHP Notice:  Undefined index: usuario in /home/dnandroidbolivia/public_html/cognos/login.php on line 13
+[18-Nov-2016 01:30:33 Etc/GMT] PHP Notice:  Undefined index: contrasenia in /home/dnandroidbolivia/public_html/cognos/login.php on line 14
+[18-Nov-2016 01:39:04 Etc/GMT] PHP Notice:  Undefined index: usuario in /home/dnandroidbolivia/public_html/cognos/login.php on line 13
+[18-Nov-2016 01:39:04 Etc/GMT] PHP Notice:  Undefined index: contrasenia in /home/dnandroidbolivia/public_html/cognos/login.php on line 14
+[18-Nov-2016 01:39:20 Etc/GMT] PHP Notice:  Undefined index: usuario in /home/dnandroidbolivia/public_html/cognos/login.php on line 13
+[18-Nov-2016 01:39:20 Etc/GMT] PHP Notice:  Undefined index: contrasenia in /home/dnandroidbolivia/public_html/cognos/login.php on line 14
+[18-Nov-2016 01:39:59 Etc/GMT] PHP Notice:  Undefined index: usuario in /home/dnandroidbolivia/public_html/cognos/login.php on line 13
+[18-Nov-2016 01:39:59 Etc/GMT] PHP Notice:  Undefined index: contrasenia in /home/dnandroidbolivia/public_html/cognos/login.php on line 14
+[18-Nov-2016 02:05:46 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/dnandroidbolivia/public_html/cognos/funciones_bd.php on line 30
+[18-Nov-2016 02:10:29 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/dnandroidbolivia/public_html/cognos/funciones_bd.php on line 30
+[18-Nov-2016 02:11:32 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/dnandroidbolivia/public_html/cognos/funciones_bd.php on line 30
+[18-Nov-2016 02:11:51 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/dnandroidbolivia/public_html/cognos/funciones_bd.php on line 30
