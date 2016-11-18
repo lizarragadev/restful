@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_c_uno"
+        android:title="Opcion 1"></item>
+    <item
+        android:id="@+id/menu_c_dos"
+        android:title="Opcion 2"></item>
+    <item
+        android:id="@+id/menu_c_tres"
+        android:title="Opcion 3"></item>
+</menu>
